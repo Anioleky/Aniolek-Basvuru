@@ -1,0 +1,13 @@
+{
+    "prefix": "prefixiniz",
+    "token": "tokeniniz",
+    "cezali": "başvuruyapamayacakcezalıid",
+    "tag": "tagınız",
+    "sunucu": "sunucuid",
+    "basvuruKanal": "başvuruyapılacakkanal",
+    "yetkili": "onaylayacakyetkiliid",
+    "basvuruKategori": "başvurununyapılacağıodakategorisi",
+    "basvuruLog": "başvurulogu",
+    "yetki1": "ilkyetkipermi",
+    "yetki2": "registeryetkisi"
+}
